@@ -1,8 +1,8 @@
 package com.example.common;
 
 public enum Month {
-    JAUNARY("January"),
-    FEBRUARY("February"),
+    JANUARY("January"),
+    FEBUARY("February"),
     MARCH("March"),
     APRIL("April"),
     MAY("May"),
