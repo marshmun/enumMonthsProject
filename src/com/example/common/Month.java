@@ -14,13 +14,13 @@ public enum Month {
     NOVEMEBER("November"),
     DECEMBER("December");
 
-    private final String englishName;
+    public String englishName;
 
     Month(String englishName) {
         this.englishName = englishName;
 
     }
-    public String getEnglishName{
+    public String getEnglishName(){
         return englishName;
     }
 }
